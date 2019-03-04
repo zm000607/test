@@ -13,5 +13,29 @@
         android:layout_height="wrap_content"
         android:text="单例模式"
         />
+    <Button
+        android:id="@+id/bun_2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="构建者模式"
+        />
+    <Button
+        android:id="@+id/bun_3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="观察者模式"
+        />
+    <Button
+        android:id="@+id/bun_4"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="工厂模式"
+        />
+    <Button
+        android:id="@+id/bun_5"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="模板模式"
+        />
 
 </LinearLayout>
